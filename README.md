@@ -3,7 +3,7 @@
 Scrollable widget for refreshing.
 
 ```
-navigation_drawer:
+empty_list:
   git:
     url: git://github.com/VadimOsovsky/flutter_empty_list.git
 ```
